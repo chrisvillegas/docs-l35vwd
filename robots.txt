@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-30vem7.salamduit.cfd/sitemap.xml
